@@ -31,7 +31,7 @@
 ### 🚀 Featured Projects
 | 💻 Project | 🧠 Description | 🛠️ Tech Stack |
 |-------------|----------------|----------------|
-| 🍽️ *Foodie – Food Ordering & Management System* | Full-stack web application for browsing restaurants, viewing menus, and placing orders with a smooth user experience | React.js, Node.js, Express, MongoDB |
+| 🍽️ **Foodie - Food Ordering & Management System** | Full-stack web application for browsing restaurants, viewing menus, and placing orders with a smooth user experience | React.js, Node.js, Express, MongoDB |
 | 🎵 **Sound Cloud – Music Streaming Platform** | Web-based music streaming application allowing users to browse, play, and manage audio tracks with authentication support | React.js, Node.js, Express, MongoDB |
 | 🧠 **QuizMaster – Online Quiz Application** | Interactive quiz platform with multiple-choice questions, score tracking, and responsive UI for beginners | Java, Spring Boot, Maven, MySQL |
 
