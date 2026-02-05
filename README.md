@@ -1,11 +1,11 @@
 <!-- Header Section -->
-<h1 align="center">Hi there 👋, I'm Divyam</h1>
+<h1 align="center">Hi there 👋, I'm Divyam Budhiraja</h1>
 <h3 align="center">🎓 Computer Science Student | 💻 Software Developer | 🌐 Full Stack Developer | 🧠 Problem Solver</h3>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Divyam;Software+Developer+%7C+Full+Stack+Developer;Passionate+about+Problem+Solving+and+Learning">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Divyam+Budhiraja;Software+Developer+%7C+Full+Stack+Developer;Passionate+about+Problem+Solving+and+Learning">
   </a>
 </p>
 
